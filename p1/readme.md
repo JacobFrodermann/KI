@@ -10,10 +10,10 @@
     und die Kopfschmerzen die es jedesmal bereitet aufwendiger sind als es selbst zu implementieren.
 
     
-    Tiefen Suche brauch 6 Schritte und läuft aus dummen glück den kürzesten weg,
+    Tiefen Suche brauch 6 Schritte findet aber nicht den optimalsten weg,
     da die weg findung von Tiefen suche von der Implementierung abhängt ist es hier nur glück.
 
-    Breiten Suche braucht8 Schritte.
+    Breiten Suche braucht 8 Schritte.
     A Stern suche braucht mit gegebenen Heuristik 9 Schritte bei eine Heuristik die immer 0 ist werden nur 5 Schritte benötigt.
     Auch nach einer korrektur der Heuristik werden mit heursitck noch 8 Schritte benötigt.
     

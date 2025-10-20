@@ -1,7 +1,7 @@
 # 1
     siehe KI.py
 
-    ![image](img.png)
+    ![image](https://github.com/JacobFrodermann/KI/blob/master/img.png)
 # 2
 ## 1
     siehe src/Everything.java
@@ -19,6 +19,7 @@
     
 ## 2
     Die Abschätzungen sind nicht zulässig und dürfen daher nicht verwendet werden, da der die Strecke für Nürnberg größer ist als in Echt.
+
 # 3
     Eine Heuristick ist Dominant, wenn sie in jedem aspekt größer ist als eine andere heuristik aber trozdem legal ist.
     Eine Heuristick funktioniert sogut wie sie der realität ähnelt, eine Heuristick die dominant ist ist näher ander relatiät und führt dazu, dass der erwartet weg besser passt.

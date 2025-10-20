@@ -1,7 +1,7 @@
 # 1
     siehe KI.py
 
-    ![image](https://github.com/JacobFrodermann/KI/blob/master/img.png)
+<picture><img src="./img.png"></picture>
 # 2
 ## 1
     siehe src/Everything.java

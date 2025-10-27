@@ -51,6 +51,38 @@ def mutate(Individual):
     for i in rage Individual:
         if Math.random() < Pmut:
             Individual[i] = random.pick(Colors)
-    
+
     return Individual
 
+
+# Queens
+
+
+# 8 zahlen für die 8 zeilen des brettes diese dürfen je bis 7 groß sein um von 0-7 alle 8 spalten abzudecken
+koodierung = new int[8];
+
+def fitness():
+    return 100 - (die queens in einer spalte + die queens auf der diagonalen)
+
+def mutation():
+    for i in koodierung:
+        if (rand() > mutation rate) koodierung[i] = random allowed value
+
+def crossOver(parentA parentB):
+    split = rand(len(koodierung)) 
+    child = {parentA[:split], parentB[split:]}
+    return child;
+
+
+def mutate():
+    for i in rage koodireung:
+        if Math.random() < Pmutation:
+            Individual[i] = rand(8)
+
+    return Individual
+
+
+
+# Annealing
+
+Simulierte Abkühlung braucht einen Abkühlungs plan sowie einen weg die Nachtbarn zu ermitteln

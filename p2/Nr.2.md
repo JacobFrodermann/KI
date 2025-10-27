@@ -1,0 +1,5 @@
+Um das Verhalten des Algorithmus bei unterschiedlichen Mutationsraten oder Crossover-Raten zu untersuchen, habe ich ein Jupyter-Notebook geschrieben, das die Logs des Algorithmus visualisiert. Dieser Ordner enthält einige Bilder mit aussagekräftigen Bezeichnungen, die zeigen, wie sich die Fitness bei verschiedenen Mutations- und Crossover-Raten verändert. In den Plots stellt jeweils eine Kurve eine komplette Population dar, sortiert nach Fitness; weitere Kurven zeigen andere Generationen.
+
+Experimente mit den Werten zeigen, dass bei höherer Crossover-Rate oder Mutationsrate tendenziell die schlechteren Individuen überleben bzw. erneut erzeugt werden und bis zum Ende bestehen bleiben. Daher lassen sich kaum Unterschiede zwischen den Graphen früherer und späterer Generationen erkennen, da keine Verbesserung stattfindet. Generell gilt: Je niedriger die Crossover- oder Mutationsrate, desto schneller wird das Ziel gefunden – zumindest in dem Bereich, in dem ich experimentiert habe.
+
+Die Grafiken stammen jeweils von einer Ausführung, die etwa dem Durchschnitt mehrerer vorheriger Läufe entspricht.
